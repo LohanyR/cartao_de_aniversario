@@ -114,7 +114,7 @@
       }
     }
 
-    @media (min-width: 400px ) {
+    @media (min-width: 300px ) {
       .imagem-logo {
         margin-left: 8em;
       }
