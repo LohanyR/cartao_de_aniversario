@@ -116,13 +116,13 @@
 
     @media (min-width: 400px ) {
       .imagem-logo {
-        margin-left: 8em;
+        margin-left: 13em;
       }
     }
 
     @media (min-width: 600px ) {
       .imagem-logo {
-        margin-left: 15em;
+        margin-left: 18em;
       }
     }
 
